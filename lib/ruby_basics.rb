@@ -4,7 +4,9 @@ def division(num1, num2)
  
 end
 
-def assign_variable(value)
+def assign_variable(name, value)
+  
+  name
   
 end
 
